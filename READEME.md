@@ -3,9 +3,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9.10-blueviolet?logo=kotlin&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-3.42.0-003B57?logo=sqlite&logoColor=white)
 ![API REST](https://img.shields.io/badge/API-Ktor-0095D5?logo=ktor&logoColor=white)
-![Status](https://img.shields.io/badge/Feito%20com-Dedica%C3%A7%C3%A3o%20e%20Caf%C3%A9-%23f5a623)
 
-> 🎓 Projeto de estudo orientado por um arquiteto de soluções — com visão profissional e execução de estudante comprometida. 💪
+> 🎓 Projeto de estudo e execução de estudante comprometida. 💪
 
 ---
 
