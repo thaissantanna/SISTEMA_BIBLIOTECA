@@ -4,7 +4,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-3.42.0-003B57?logo=sqlite&logoColor=white)
 ![API REST](https://img.shields.io/badge/API-Ktor-0095D5?logo=ktor&logoColor=white)
 
-> 🎓 Projeto de estudo e execução de estudante comprometida. 💪
+> 🎓 Projeto de estudo. Realizado através da mentoria do Rafael Gottardi (Fino) 💪
 
 ---
 
